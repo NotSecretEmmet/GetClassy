@@ -126,6 +126,7 @@ if __name__ == "__main__":
     driver = setup_driver()
     play_rain()
     play_jazz()
-    if not fire_cast:
+    if fire_cast:
+        driver.minimize_window()
+    else:
         play_fire()
-    print('done')
