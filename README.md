@@ -1,7 +1,8 @@
 # Time to get classy
 
 ## General info:
-Credit for original idea belongs to: https://www.reddit.com/r/reddit.com/comments/ca4bl/time_to_get_classy/
+Credit for original idea belongs to: https://www.reddit.com/r/reddit.com/comments/ca4bl/time_to_get_classy/.
+
 Hobby project created for entertainment purposes.
 Use when it's 'time to get classy'.
 
