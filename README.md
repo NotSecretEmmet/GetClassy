@@ -24,11 +24,11 @@ Packages used:
 
 
 ## Setup:
--pip install requirements.txt
+    -pip install requirements.txt
 
--Change the 'CAST_NAME' variable to match the name of your target Chromecast (or leave blank to skip)
+    -Change the 'CAST_NAME' variable to match the name of your target Chromecast (or leave blank to skip)
 
--Run
+    -Run
 
 
 ## Disclaimer:
